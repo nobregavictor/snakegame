@@ -9,7 +9,7 @@ A simple Snake game made in Python, using `pygame` library. // Um simples jogo d
 [PT-BR]
 - Use as **setas do teclado** para mover a cobrinha (↑ ↓ ← →). 
 - Coma a comida vermelha para crescer e ganhar pontos.
-- Não colida com as bordas ou com o próprio corpo, ou o jogo acaba!
+- Não colida com as bordas ou com o próprio corpo, ou o jogo acaba! <br>
 [EN-US]
 - Use the **arrow keys** to move the snake (↑ ↓ ← →).  
 - Eat the red food to grow and earn points.  

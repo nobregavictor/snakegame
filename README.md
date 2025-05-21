@@ -1,5 +1,5 @@
 ![Snake Game](snakegame1.png)
-
+![Snake Game](snakegame2.png)
 
 
 # 🐍 Snake Game
